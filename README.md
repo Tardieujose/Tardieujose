@@ -1,7 +1,7 @@
                                             Bienvenido a mi perfil! 👋
                                             
                                             
-Proximamente por egresarme de Full Stack Developer del bootcamp de Henry👩🏻‍💻
+Actualmente, egresado de la carrera Full Stack Developer del bootcamp de SoyHenry👩🏻‍💻
 
 Acá van a encontrar proyectos realizados del bootcamp y otros particulares 👀
 
