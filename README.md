@@ -17,3 +17,7 @@ JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NodeJS, Express, Seq
     <img src="https://skillicons.dev/icons?i=js,ts,react,angular,redux,html,css,nodejs,express,sequelize,cpp,github" />
   </a>
 </p>
+
+
+
+Contacto: tardieujose@gmail.com
